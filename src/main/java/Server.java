@@ -10,7 +10,6 @@ public class Server {
 
     public static void main(String[] args) {
         int port = 1234;
-
         // Load existing users from file
         loadCredentials();
 
